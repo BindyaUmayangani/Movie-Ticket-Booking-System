@@ -9,11 +9,9 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 - [🛠️ Technologies Used](#️-technologies-used)
 - [🚀 Getting Started](#-getting-started)
 - [📖 User Flow](#-user-flow)
-- [📷 Screenshots](#-screenshots)
 - [🔒 Admin Panel](#-admin-panel)
 - [⚙️ Setup Instructions](#️-setup-instructions)
 - [🌟 Future Enhancements](#-future-enhancements)
-- [👥 Contributors](#-contributors)
 
 ---
 
@@ -88,22 +86,6 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 * Receive Confirmation: Booking confirmation email is sent.
 * Manage Account: Reset password or update profile via email verification.
   
-## 📷 Screenshots
-* 🏠 Home Page
-
-
-* 🎞️ Movie Details
-
-
-* 🎟️ Seat Booking
-
-
-* 🛒 Checkout
-  
-
-* 📊 Admin Dashboard
-
-
 ##🔒 Admin Panel
 * Login: Secure admin login.
 * Manage Movies: Add or update movie details with images.
@@ -131,8 +113,4 @@ A comprehensive **Java EE-based movie booking system** designed to provide seaml
 * Support for additional payment gateways.
 * Real-time notifications for booking updates.
   
-## 👥 Contributors
-* Pasith Nishshanka(https://github.com/pasithNishshanka)
-* Dinesh Hashan(https://github.com/KDHBuddhika)
-* Kavindu Kaveesha(https://github.com/kavindukaveesha)
 
